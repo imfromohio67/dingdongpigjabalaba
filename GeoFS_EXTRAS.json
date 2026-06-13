@@ -1,0 +1,25 @@
+{
+"Aircraft": [
+{
+"name": "Boeing 717-200",
+"url": "https://www.geo-fs.com/backend/aircraft/repository/717_380019_5380/aircraft.json",
+"id": 67676767,
+"mp": "addon",
+"ls": 1
+},
+{
+"name": "Cessna CJ2",
+"url": "https://www.geo-fs.com/backend/aircraft/repository/c25a_380019_5367/aircraft.json",
+"id": 6767676767,
+"mp": "addon",
+"ls": 1
+},
+{
+"name": "S70 Train",
+"url": "https://www.geo-fs.com/backend/aircraft/repository/s70_380019_5607/aircraft.json",
+"id": 676767676767,
+"mp": "addon",
+"ls": 1
+}
+],
+}
