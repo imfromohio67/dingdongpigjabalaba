@@ -20,6 +20,20 @@
 "id": 676767676767,
 "mp": "addon",
 "ls": 1
+},
+{
+"name": "Cessna 172 Retro",
+"url": "https://www.geo-fs.com/models/aircraft/retro/c172/aircraft.json",
+"id": 67676766776767,
+"mp": "addon",
+"ls": 1
+},
+{
+"name": "Me262",
+"url": "https://raw.githubusercontent.com/NVB9ALT/Messerchmitt-Me262-code/refs/heads/main/Me-262.json",
+"id": 67676767676767,
+"mp": "addon",
+"ls": 1
 }
 ]
 }
